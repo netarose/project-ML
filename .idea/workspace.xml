@@ -14,8 +14,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -73,11 +73,6 @@
             <path>
               <item name="project-ML" type="b2602c69:ProjectViewProjectNode" />
               <item name="project-ML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-ML" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-ML" type="462c0819:PsiDirectoryNode" />
-              <item name="kigb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,8 +171,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
           <folding />
         </state>
       </provider>

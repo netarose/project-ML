@@ -23,3 +23,11 @@ The results will be saved in KiGB_results.csv, MERCS_results.csv, XBART_results.
 To run the meta-learning model run the meta_learning_model.py file.
 
 The results will be saved in meta_results.csv, feature_importance.csv, shap.csv.
+
+
+
+KiGB Hyper-parameters:
+
+	trees = [10, 20, 30, 40]
+	learning_rate = [0.005, 0.01, 0.05, 0.1]
+	max_depth = [3, 6, 10, -1]

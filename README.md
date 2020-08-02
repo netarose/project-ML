@@ -1,6 +1,6 @@
 # project-ML
  
-To run this project first insall MERCS and XBART using the commands:
+To run this project first insall MERCS and XBART using the commands:\n
 	pip install mercs
 	pip install xbart
 
